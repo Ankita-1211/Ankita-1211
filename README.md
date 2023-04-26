@@ -13,3 +13,5 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-1211&show_icons=true&theme=radical)
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=4)](https://github4life.herokuapp.com/ethomson)
+
