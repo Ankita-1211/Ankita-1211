@@ -11,5 +11,7 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 ![GitHub followers](https://img.shields.io/github/followers/Ankita-1211?label=Follow&style=social)
 
+![Ankita's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Ankita-1211)
+
 - 🌱 I’m currently learning nextflow, FISH & exploring Data Science at command line.
 - Focus: Bash, Linux, Nextflow, Python, R & Bioinformatics Pipelines.
