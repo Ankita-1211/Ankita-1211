@@ -13,5 +13,7 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 ![Ankita's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Ankita-1211)
 
+[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Ankita-1211/github-readme-stats)
+
 - 🌱 I’m currently learning nextflow, FISH & exploring Data Science at command line.
 - Focus: Bash, Linux, Nextflow, Python, R & Bioinformatics Pipelines.
