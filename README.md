@@ -13,3 +13,5 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-1211)](https://github.com/Ankita-1211/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-1211&hide_progress=true)](https://github.com/Ankita-1211/github-readme-stats)
+
