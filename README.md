@@ -13,6 +13,6 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-1211&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,py,r,sqlite, linux, postgres&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,py,r,sqlite,linux,postgres)](https://skillicons.dev)
 
 [![Nextflow Workflow](https://img.shields.io/badge/nextflow-workflow-brightgreen.svg)](https://www.nextflow.io/)
