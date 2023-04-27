@@ -13,7 +13,5 @@ I am committed to open science and reproducibility, and have extensive experienc
 
 ![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-1211&show_icons=true&theme=radical)
 
-![he](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![lan](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita-1211)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
