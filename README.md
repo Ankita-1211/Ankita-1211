@@ -11,7 +11,6 @@ I am committed to open science and reproducibility, and have extensive experienc
 - 🌱 I’m currently learning nextflow, FISH & exploring Data Science at command line.
 - Focus: Bash, Linux, Nextflow, Python, R & Bioinformatics Pipelines.
 
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita-1211&show_icons=true&theme=radical)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,py,r,sqlite,linux,postgres)](https://skillicons.dev)
 
